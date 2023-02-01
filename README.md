@@ -1,0 +1,2 @@
+# compose_intellij_dependencies
+compose_intellij_dependencies
